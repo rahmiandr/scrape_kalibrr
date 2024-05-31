@@ -25,13 +25,13 @@ level <-page %>% html_nodes(xpath = '//a[@class="k-font-dm-sans k-text-xs k-font
 
 data <- data.frame(
   time_scraped = Sys.time(),
-  posisi = head(posisi, 5),
-  perusahaan = head(perusahaan, 5),
-  lokasi = head(lokasi, 5),
-  gaji = head(gaji, 5),
-  jenis = head(jenis, 5),
-  batas = head(batas, 5),
-  level = head(level, 5),
+  posisi = posisi[1:5],
+  perusahaan = perusahaan[1:5],
+  lokasi = lokasi[1:5],
+  gaji = gaji[1:5],
+  jenis = jenis[1:5],
+  batas = batas[1:5],
+  level = level[1:5],
   stringsAsFactors = FALSE
 )
 
