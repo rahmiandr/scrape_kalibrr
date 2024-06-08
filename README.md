@@ -1,5 +1,5 @@
 <p align="center" width="80%">
-    <img width="100%" src="[https://upload.wikimedia.org/wikipedia/commons/6/63/Kalibrr_Logo.png](https://farmasi.setiabudi.ac.id/wp-content/uploads/2023/09/LOKER.png)">
+    <img width="100%" src="https://farmasi.setiabudi.ac.id/wp-content/uploads/2023/09/LOKER.png">
 </p>
 
 <div align="center">
