@@ -41,8 +41,8 @@ Kalibrr adalah platform rekrutmen dan pencarian kerja yang menghubungkan perusah
 
 
 <p align="center">
-  <img width="220" height="150" src="https://cdn.idntimes.com/content-images/post/20231228/new-saphire-plaza-premium-lounge-d7af5142f916b19a9047a4b135b3730d.jpg">
-  <img width="220" height="150" src="https://asset.kompas.com/crops/3nFagQTlz7N4kQ_7jwSEVJ9UXQ0=/0x0:0x0/750x500/data/photo/2021/10/26/61779fa7b2801.jpg">
+  <img width="220" height="150" src="https://mmc.tirto.id/image/otf/970x0/2023/11/19/header---olx_ratio-16x9.jpg">
+  <img width="220" height="150" src="https://sleekr.co/wp-content/uploads/2019/07/shutterstock_1441793726-min.jpg">
 </p>
 
 ## :writing_hand: Deskripsi
