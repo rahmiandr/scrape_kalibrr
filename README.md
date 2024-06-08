@@ -1,5 +1,5 @@
 <p align="center" width="80%">
-    <img width="100%" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Kalibrr_Logo.png">
+    <img width="100%" src="[https://upload.wikimedia.org/wikipedia/commons/6/63/Kalibrr_Logo.png](https://farmasi.setiabudi.ac.id/wp-content/uploads/2023/09/LOKER.png)">
 </p>
 
 <div align="center">
@@ -79,10 +79,9 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
 ```
 ## :bar_chart: Visualiasi Data Scraping
 Berikut merupakan link data visualisasi dari hasil scraping : 
-+ 
 
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
 
 ## :woman_technologist: Pengembang
-+ [Rahmi Anadra](https://github.com/rahmiandr) (G1501231051)
+[Rahmi Anadra](https://github.com/rahmiandr) (G1501231051)
