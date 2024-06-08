@@ -47,8 +47,8 @@ Kalibrr adalah platform rekrutmen dan pencarian kerja yang menghubungkan perusah
 
 ## :writing_hand: Deskripsi
 
-<p align="center" width="80%">
-  <img width="700" height="500" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Kalibrr_Logo.png">
+<p align="center" width="60%">
+  <img width="600" height="400" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Kalibrr_Logo.png">
 </p>
 
 <div align="center">
