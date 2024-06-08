@@ -1,5 +1,5 @@
 <p align="center" width="60%">
-    <img width="80%" src="https://farmasi.setiabudi.ac.id/wp-content/uploads/2023/09/LOKER.png">
+    <img width="60%" src="https://farmasi.setiabudi.ac.id/wp-content/uploads/2023/09/LOKER.png">
 </p>
 
 <div align="center">
@@ -39,7 +39,7 @@ Kalibrr adalah platform rekrutmen dan pencarian kerja yang menghubungkan perusah
 </p>
 
 <p align="center">
-  <img width="220" height="150" src="https://akcdn.detik.net.id/community/media/visual/2017/08/11/df72df27-3ba9-4494-b085-0a091b781c9f.jpg?w=700&q=90">
+  <img width="220" height="150" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Kalibrr_Logo.png">
   <img width="220" height="150" src="https://cdn.idntimes.com/content-images/post/20231228/new-saphire-plaza-premium-lounge-d7af5142f916b19a9047a4b135b3730d.jpg">
   <img width="220" height="150" src="https://asset.kompas.com/crops/3nFagQTlz7N4kQ_7jwSEVJ9UXQ0=/0x0:0x0/750x500/data/photo/2021/10/26/61779fa7b2801.jpg">
 </p>
