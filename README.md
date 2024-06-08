@@ -1,5 +1,5 @@
 <p align="center" width="80%">
-    <img width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AKalibrr_Logo.png&psig=AOvVaw1uPo4wNvHA1mAoDH0DMwdo&ust=1717908092233000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDdm7-Yy4YDFQAAAAAdAAAAABAJ">
+    <img width="100%" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Kalibrr_Logo.png" alt="Kalibrr Logo">
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 </p>
 
-[Tentang](#job-tentang)
+[Tentang](#pushpin-tentang)
 •
 [Deskripsi Project](#writing_hand-deskripsi-project)
 •
@@ -27,7 +27,7 @@
 
 </div>
 
-## :job: Tentang
+## :pushpin: Tentang
 
 **Apa sih Airline Quality itu?**
 
