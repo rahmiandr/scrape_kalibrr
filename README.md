@@ -41,8 +41,8 @@ Kalibrr adalah platform rekrutmen dan pencarian kerja yang menghubungkan perusah
 
 
 <p align="center">
-  <img width="220" height="150" src="https://mmc.tirto.id/image/otf/970x0/2023/11/19/header---olx_ratio-16x9.jpg">
-  <img width="220" height="150" src="https://sleekr.co/wp-content/uploads/2019/07/shutterstock_1441793726-min.jpg">
+  <img width="250" height="170" src="https://mmc.tirto.id/image/otf/970x0/2023/11/19/header---olx_ratio-16x9.jpg">
+  <img width="250" height="170" src="https://www.linovhr.com/wp-content/uploads/2021/08/Kendala-HRD-dalam-Rekrutmen.webp">
 </p>
 
 ## :writing_hand: Deskripsi
