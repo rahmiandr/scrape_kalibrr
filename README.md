@@ -33,9 +33,10 @@
 
 <p align="justify">
 Kalibrr adalah platform rekrutmen dan pencarian kerja yang menghubungkan perusahaan dengan pencari kerja. Adapun fitur utama dari Kalibrr adalah:
-+ Pencarian Kerja: Pencari kerja dapat membuat profil, melamar pekerjaan, dan mengikuti tes keterampilan yang dapat meningkatkan peluang mereka untuk ditemukan oleh perekrut.  
-+ Rekrutmen: Perusahaan dapat menggunakan Kalibrr untuk memposting lowongan pekerjaan, mencari kandidat berdasarkan keterampilan dan kualifikasi, serta mengelola proses perekrutan.
-+ Tes Keterampilan dan Penilaian: Kalibrr menyediakan berbagai tes keterampilan yang dapat diikuti oleh pencari kerja untuk menunjukkan kompetensi mereka kepada calon pemberi kerja.
+- **Pencarian Kerja**: Pencari kerja dapat membuat profil, melamar pekerjaan, dan mengikuti tes keterampilan yang dapat meningkatkan peluang mereka untuk ditemukan oleh perekrut.    
+- **Rekrutmen**: Perusahaan dapat menggunakan Kalibrr untuk memposting lowongan pekerjaan, mencari kandidat berdasarkan keterampilan dan kualifikasi, serta mengelola proses perekrutan.
+- **Tes Keterampilan dan Penilaian**: Kalibrr menyediakan berbagai tes keterampilan yang dapat diikuti oleh pencari kerja untuk menunjukkan kompetensi mereka kepada calon pemberi kerja.
+
 </p>
 
 <p align="center">
