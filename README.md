@@ -29,11 +29,13 @@
 
 ## :pushpin: Tentang
 
-**Apa sih Airline Quality itu?**
+**Mengapa Harus Memilih Kalibrr?**
 
 <p align="justify">
-Airline quality mengacu pada tingkat layanan dan kinerja yang disediakan oleh sebuah maskapai penerbangan kepada penumpangnya. 
-Kualitas ini biasanya dievaluasi dan dinilai berdasarkan berbagai faktor yang diantaranya mencakup keselamatan, kenyamanan, efisiensi, dan layanan pelanggan.
+Kalibrr adalah platform rekrutmen dan pencarian kerja yang menghubungkan perusahaan dengan pencari kerja. Adapun fitur utama dari Kalibrr adalah:
+    Pencarian Kerja: Pencari kerja dapat membuat profil, melamar pekerjaan, dan mengikuti tes keterampilan yang dapat meningkatkan peluang mereka untuk ditemukan oleh perekrut.
+Rekrutmen: Perusahaan dapat menggunakan Kalibrr untuk memposting lowongan pekerjaan, mencari kandidat berdasarkan keterampilan dan kualifikasi, serta mengelola proses perekrutan.
+Tes Keterampilan dan Penilaian: Kalibrr menyediakan berbagai tes keterampilan yang dapat diikuti oleh pencari kerja untuk menunjukkan kompetensi mereka kepada calon pemberi kerja.
 </p>
 
 <p align="center">
