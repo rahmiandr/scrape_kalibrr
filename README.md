@@ -23,7 +23,7 @@
 •
 [PPT](#computer-PPT)
 •
-[Pengembang](#panda_face-pengembang)
+[Pengembang](#woman_technologist-pengembang)
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <p align="justify">
 Kalibrr adalah platform rekrutmen dan pencarian kerja yang menghubungkan perusahaan dengan pencari kerja. Adapun fitur utama dari Kalibrr adalah:
-    Pencarian Kerja: Pencari kerja dapat membuat profil, melamar pekerjaan, dan mengikuti tes keterampilan yang dapat meningkatkan peluang mereka untuk ditemukan oleh perekrut.
-Rekrutmen: Perusahaan dapat menggunakan Kalibrr untuk memposting lowongan pekerjaan, mencari kandidat berdasarkan keterampilan dan kualifikasi, serta mengelola proses perekrutan.
-Tes Keterampilan dan Penilaian: Kalibrr menyediakan berbagai tes keterampilan yang dapat diikuti oleh pencari kerja untuk menunjukkan kompetensi mereka kepada calon pemberi kerja.
+- Pencarian Kerja: Pencari kerja dapat membuat profil, melamar pekerjaan, dan mengikuti tes keterampilan yang dapat meningkatkan peluang mereka untuk ditemukan oleh perekrut.  
+- Rekrutmen: Perusahaan dapat menggunakan Kalibrr untuk memposting lowongan pekerjaan, mencari kandidat berdasarkan keterampilan dan kualifikasi, serta mengelola proses perekrutan.
+- Tes Keterampilan dan Penilaian: Kalibrr menyediakan berbagai tes keterampilan yang dapat diikuti oleh pencari kerja untuk menunjukkan kompetensi mereka kepada calon pemberi kerja.
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ Tes Keterampilan dan Penilaian: Kalibrr menyediakan berbagai tes keterampilan ya
   <img width="220" height="150" src="https://asset.kompas.com/crops/3nFagQTlz7N4kQ_7jwSEVJ9UXQ0=/0x0:0x0/750x500/data/photo/2021/10/26/61779fa7b2801.jpg">
 </p>
 
-## :writing_hand: Deskripsi Project
+## :writing_hand: Deskripsi
 
 <p align="center" width="80%">
   <img width="700" height="400" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
@@ -53,15 +53,12 @@ Tes Keterampilan dan Penilaian: Kalibrr menyediakan berbagai tes keterampilan ya
 <div align="center">
 
 <p align="justify">
-Pada project kali ini, yaitu melakukan scraping pada website https://www.airlinequality.com/. Situs web ini dikenal dengan nama "Skytrax." Ini adalah platform yang menyediakan penilaian dan ulasan tentang maskapai penerbangan dan bandara di seluruh dunia. Skytrax dikenal karena memberikan informasi terperinci tentang pengalaman penumpang dan peringkat kualitas layanan maskapai dan bandara.
+Pada project kali ini dilakukan scraping pada website https://www.kalibrr.id/. Kalibrr adalah platform yang menyediakan informasi tentang lowongan kerja, perusahaan, dan kesempatan karier lainnya. Dengan melakukan web scraping, akan dilakukan pengumpulan data terkait seperti posisi pekerjaan, perusahaan yang membuka lowongan, lokasi perusahaan, gaji, jenis pekerjaan, batas lamaran, dan level/tingkat pekerja yang dibutuhkan  dan informasi lainnya yang relevan untuk analisis dan keperluan lainnya.
+
 </p>
 
 <p align="justify">
-Skytrax dianggap sebagai sumber tepercaya untuk evaluasi kualitas layanan dalam industri penerbangan, dan digunakan oleh penumpang serta profesional industri untuk membuat keputusan yang lebih baik terkait perjalanan udara.
-</p>
-
-<p align="justify">
-Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan airline ratings, lounge ratings, seat ratings dan airport ratings.
+Kalibrr merupakan sumber informasi yang dapat diandalkan untuk mencari dan menilai peluang karier dalam industri, serta digunakan oleh pencari kerja dan profesional sumber daya manusia untuk menemukan dan menilai potensi perusahaan dan posisi pekerjaan yang sesuai dengan kebutuhan mereka.
 </p>
 
 </div>
@@ -87,5 +84,5 @@ Berikut merupakan link data visualisasi dari hasil scraping :
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
 
-## :panda_face: Pengembang
+## :woman_technologist: Pengembang
 + [Rahmi Anadra](https://github.com/rahmiandr) (G1501231051)
