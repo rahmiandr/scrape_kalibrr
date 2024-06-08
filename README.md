@@ -1,5 +1,5 @@
 <p align="center" width="80%">
-    <img width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kalibrr.com%2Fkalibrr-powered&psig=AOvVaw32S7yLiG5VSOQo7ewMvsu1&ust=1717907969089000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi7xYWYy4YDFQAAAAAdAAAAABAE">
+    <img width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AKalibrr_Logo.png&psig=AOvVaw1uPo4wNvHA1mAoDH0DMwdo&ust=1717908092233000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDdm7-Yy4YDFQAAAAAdAAAAABAJ">
 </p>
 
 <div align="center">
