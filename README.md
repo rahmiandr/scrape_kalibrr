@@ -1,5 +1,5 @@
-<p align="center" width="80%">
-    <img width="100%" src="https://farmasi.setiabudi.ac.id/wp-content/uploads/2023/09/LOKER.png">
+<p align="center" width="60%">
+    <img width="80%" src="https://farmasi.setiabudi.ac.id/wp-content/uploads/2023/09/LOKER.png">
 </p>
 
 <div align="center">
