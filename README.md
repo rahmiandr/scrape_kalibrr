@@ -1,5 +1,5 @@
 <p align="center" width="80%">
-    <img width="100%" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Kalibrr_Logo.png" alt="Kalibrr Logo">
+    <img width="100%" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Kalibrr_Logo.png">
 </p>
 
 <div align="center">
@@ -17,7 +17,7 @@
 •
 [Deskripsi Project](#writing_hand-deskripsi-project)
 •
-[Dokumen](#books-dokumen)
+[Dokumen](#open_file_folder-dokumen)
 •
 [Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
 •
@@ -64,7 +64,7 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan airline rating
 
 </div>
 
-## :books: Dokumen
+## :open_file_folder: Dokumen
 Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
 ```mongodb
 {
