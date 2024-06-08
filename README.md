@@ -33,13 +33,12 @@
 
 <p align="justify">
 Kalibrr adalah platform rekrutmen dan pencarian kerja yang menghubungkan perusahaan dengan pencari kerja. Adapun fitur utama dari Kalibrr adalah:
-- Pencarian Kerja: Pencari kerja dapat membuat profil, melamar pekerjaan, dan mengikuti tes keterampilan yang dapat meningkatkan peluang mereka untuk ditemukan oleh perekrut.  
-- Rekrutmen: Perusahaan dapat menggunakan Kalibrr untuk memposting lowongan pekerjaan, mencari kandidat berdasarkan keterampilan dan kualifikasi, serta mengelola proses perekrutan.
-- Tes Keterampilan dan Penilaian: Kalibrr menyediakan berbagai tes keterampilan yang dapat diikuti oleh pencari kerja untuk menunjukkan kompetensi mereka kepada calon pemberi kerja.
++ Pencarian Kerja: Pencari kerja dapat membuat profil, melamar pekerjaan, dan mengikuti tes keterampilan yang dapat meningkatkan peluang mereka untuk ditemukan oleh perekrut.  
++ Rekrutmen: Perusahaan dapat menggunakan Kalibrr untuk memposting lowongan pekerjaan, mencari kandidat berdasarkan keterampilan dan kualifikasi, serta mengelola proses perekrutan.
++ Tes Keterampilan dan Penilaian: Kalibrr menyediakan berbagai tes keterampilan yang dapat diikuti oleh pencari kerja untuk menunjukkan kompetensi mereka kepada calon pemberi kerja.
 </p>
 
 <p align="center">
-  <img width="220" height="150" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Kalibrr_Logo.png">
   <img width="220" height="150" src="https://cdn.idntimes.com/content-images/post/20231228/new-saphire-plaza-premium-lounge-d7af5142f916b19a9047a4b135b3730d.jpg">
   <img width="220" height="150" src="https://asset.kompas.com/crops/3nFagQTlz7N4kQ_7jwSEVJ9UXQ0=/0x0:0x0/750x500/data/photo/2021/10/26/61779fa7b2801.jpg">
 </p>
@@ -47,7 +46,7 @@ Kalibrr adalah platform rekrutmen dan pencarian kerja yang menghubungkan perusah
 ## :writing_hand: Deskripsi
 
 <p align="center" width="80%">
-  <img width="700" height="400" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
+  <img width="700" height="400" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Kalibrr_Logo.png">
 </p>
 
 <div align="center">
