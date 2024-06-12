@@ -93,7 +93,7 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Kalibrr :
 }
 ```
 ## :bar_chart: Visualisasi Data Scraping
-Berikut merupakan link data visualisasi dari hasil scraping : 
+Berikut merupakan link data visualisasi dari hasil scraping : https://rpubs.com/rahmianadra/visualisasi-hasilscrapping
 
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan projek yang telah dibuat :
