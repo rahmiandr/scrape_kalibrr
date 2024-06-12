@@ -15,7 +15,7 @@
 
 [Tentang](#pushpin-tentang)
 •
-[Deskripsi Projek](#writing_hand-deskripsi-project)
+[Deskripsi Projek](#writing_hand-deskripsi-projek)
 •
 [Dokumen](#open_file_folder-dokumen)
 •
@@ -65,7 +65,7 @@ Kalibrr merupakan sumber informasi yang dapat diandalkan untuk mencari dan menil
 </div>
 
 ## :open_file_folder: Dokumen
-Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
+Berikut adalah salah satu contoh dokumen di MongoDB untuk Kalibrr :
 ```mongodb
 {
 "_id":{"$oid":"665984ccc50e47cfec03aec1"},
@@ -78,11 +78,11 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
 "level":"Entry Level / Junior, Apprentice"
 }
 ```
-## :bar_chart: Visualiasi Data Scraping
+## :bar_chart: Visualisasi Data Scraping
 Berikut merupakan link data visualisasi dari hasil scraping : 
 
 ## :computer: PPT
-Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
+Berikut adalah link powerpoint berkaitan dengan projek yang telah dibuat :
 
 ## :woman_technologist: Pengembang
 [Rahmi Anadra](https://github.com/rahmiandr) (G1501231051)
