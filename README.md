@@ -15,7 +15,7 @@
 
 [Tentang](#pushpin-tentang)
 •
-[Deskripsi Project](#writing_hand-deskripsi-project)
+[Deskripsi Projek](#writing_hand-deskripsi-project)
 •
 [Dokumen](#open_file_folder-dokumen)
 •
@@ -45,7 +45,7 @@ Kalibrr adalah platform rekrutmen dan pencarian kerja yang menghubungkan perusah
   <img width="270" height="180" src="https://www.linovhr.com/wp-content/uploads/2021/08/Kendala-HRD-dalam-Rekrutmen.webp">
 </p>
 
-## :writing_hand: Deskripsi
+## :writing_hand: Deskripsi Projek
 
 <p align="center" width="60%">
   <img width="500" height="250" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Kalibrr_Logo.png">
