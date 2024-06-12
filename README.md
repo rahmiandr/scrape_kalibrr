@@ -1,3 +1,6 @@
+<div align="center"><h1><b>Visualizing Career Pathways from Web Data</b></h1></div>
+
+
 <p align="center" width="60%">
     <img width="60%" src="https://farmasi.setiabudi.ac.id/wp-content/uploads/2023/09/LOKER.png">
 </p>
@@ -44,12 +47,12 @@ Kalibrr adalah platform rekrutmen dan pencarian kerja yang menghubungkan perusah
   <img width="270" height="180" src="https://www.linovhr.com/wp-content/uploads/2021/08/Kendala-HRD-dalam-Rekrutmen.webp">
 </p>
 
-## speech_balloon: Deskripsi Projek
+## :speech_balloon: Deskripsi Projek
 
 <div align="center">
 
 <p align="justify">
-Pada project kali ini dilakukan scraping pada website https://www.kalibrr.id/. Kalibrr adalah platform yang menyediakan informasi tentang lowongan kerja, perusahaan, dan kesempatan karier lainnya. Dengan melakukan web scraping, akan dilakukan pengumpulan data terkait seperti posisi pekerjaan, perusahaan yang membuka lowongan, lokasi perusahaan, gaji, jenis pekerjaan, batas lamaran, dan level/tingkat pekerja yang dibutuhkan  dan informasi lainnya yang relevan untuk analisis dan keperluan lainnya.
+Kalibrr merupakan sumber informasi yang dapat diandalkan untuk mencari dan menilai peluang karier dalam industri, serta digunakan oleh pencari kerja dan profesional sumber daya manusia untuk menemukan dan menilai potensi perusahaan dan posisi pekerjaan yang sesuai dengan kebutuhan mereka.
 </p>
 
 <p align="center" width="60%">
@@ -57,7 +60,7 @@ Pada project kali ini dilakukan scraping pada website https://www.kalibrr.id/. K
 </p>
 
 <p align="justify">
-Kalibrr merupakan sumber informasi yang dapat diandalkan untuk mencari dan menilai peluang karier dalam industri, serta digunakan oleh pencari kerja dan profesional sumber daya manusia untuk menemukan dan menilai potensi perusahaan dan posisi pekerjaan yang sesuai dengan kebutuhan mereka.
+Pada project kali ini dilakukan scraping pada website https://www.kalibrr.id/. Kalibrr adalah platform yang menyediakan informasi tentang lowongan kerja, perusahaan, dan kesempatan karier lainnya. Doyek ini bertujuan untuk mengumpulkan data dari Kalibrr menggunakan teknik web scraping, yang nantinya akan digunakan untuk analisis dan visualisasi data terkait informasi lowongan kerja dan perusahaan yang tersedia. Proyek ini akan menggunakan teknik web scraping untuk mengumpulkan beberapa informasi yang relevan dari website Kalibrr. Setelah data berhasil dikumpulkan, langkah selanjutnya adalah melakukan analisis data dan membuat visualisasi yang informatif, seperti grafik untuk menggambarkan tren lowongan kerja berdasarkan sektor industri, tingkat pendidikan yang dibutuhkan, atau lokasi pekerjaan yang paling banyak dicari. Visualisasi ini akan membantu dalam memahami dinamika pasar kerja dan memberikan wawasan berharga bagi para pencari kerja dan perusahaan.
 </p>
 
 </div>
