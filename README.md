@@ -4,18 +4,17 @@
 
 <div align="center">
     
-# Kalibbr Scraping
 [![scrape_kalibrr](https://github.com/rahmiandr/scrape_kalibrr/actions/workflows/main.yml/badge.svg)](https://github.com/rahmiandr/scrape_kalibrr/actions/workflows/main.yml)
 
 <p align="center">
     
-# :world_map: Menu
+# :gear: Kalibrr Scraping
 
 </p>
 
 [Tentang](#pushpin-tentang)
 •
-[Deskripsi Projek](#writing_hand-deskripsi-projek)
+[Deskripsi Projek](#speech_balloon-deskripsi-projek)
 •
 [Dokumen](#open_file_folder-dokumen)
 •
@@ -45,7 +44,7 @@ Kalibrr adalah platform rekrutmen dan pencarian kerja yang menghubungkan perusah
   <img width="270" height="180" src="https://www.linovhr.com/wp-content/uploads/2021/08/Kendala-HRD-dalam-Rekrutmen.webp">
 </p>
 
-## :writing_hand: Deskripsi Projek
+## speech_balloon: Deskripsi Projek
 
 <div align="center">
 
