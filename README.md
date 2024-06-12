@@ -4,7 +4,7 @@
 
 <div align="center">
     
-# scrape_kalibrr
+# Kalibbr Scraping
 [![scrape_kalibrr](https://github.com/rahmiandr/scrape_kalibrr/actions/workflows/main.yml/badge.svg)](https://github.com/rahmiandr/scrape_kalibrr/actions/workflows/main.yml)
 
 <p align="center">
@@ -47,15 +47,14 @@ Kalibrr adalah platform rekrutmen dan pencarian kerja yang menghubungkan perusah
 
 ## :writing_hand: Deskripsi Projek
 
-<p align="center" width="60%">
-  <img width="500" height="250" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Kalibrr_Logo.png">
-</p>
-
 <div align="center">
 
 <p align="justify">
 Pada project kali ini dilakukan scraping pada website https://www.kalibrr.id/. Kalibrr adalah platform yang menyediakan informasi tentang lowongan kerja, perusahaan, dan kesempatan karier lainnya. Dengan melakukan web scraping, akan dilakukan pengumpulan data terkait seperti posisi pekerjaan, perusahaan yang membuka lowongan, lokasi perusahaan, gaji, jenis pekerjaan, batas lamaran, dan level/tingkat pekerja yang dibutuhkan  dan informasi lainnya yang relevan untuk analisis dan keperluan lainnya.
+</p>
 
+<p align="center" width="60%">
+  <img width="500" height="250" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Kalibrr_Logo.png">
 </p>
 
 <p align="justify">
@@ -63,6 +62,19 @@ Kalibrr merupakan sumber informasi yang dapat diandalkan untuk mencari dan menil
 </p>
 
 </div>
+
+<p>
+Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
+
+- **Posis**: Posisi atau jabatan pekerjaan yang ditawarkan.
+- **Perusahaan**: meliputi kenyamanan lounge, kebersihan, katering makanan, toilet, layanan staf, dll.
+- **Lokasi**: Lokasi tempat kerja.
+- **Gaji**: Informasi tentang gaji yang ditawarkan untuk posisi tersebut.
+- **Jenis**: Jenis pekerjaan, seperti full time, part time, internship.
+- **Batas**: Tanggal batas pengajuan berkas lamaran
+- **Level**: Tingkat pengalaman yang dibutuhkan untuk posisi tersebut, seperti Entry Level / Junior, Apprentice.
+</p>
+
 
 ## :open_file_folder: Dokumen
 Berikut adalah salah satu contoh dokumen di MongoDB untuk Kalibrr :
