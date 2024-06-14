@@ -1,4 +1,4 @@
-<div align="center"><h1><b>Visualizing Career Pathways from Web Data</b></h1></div>
+<div align="center"><h1><b>Visualizing Career Pathways from Web Scrapping Data</b></h1></div>
 
 
 <p align="center" width="60%">
