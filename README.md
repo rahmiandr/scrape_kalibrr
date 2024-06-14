@@ -79,7 +79,7 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
 
 
 ## :open_file_folder: Dokumen
-Berikut adalah salah satu contoh dokumen di MongoDB untuk Kalibrr :
+Berikut adalah salah satu contoh dokumen di MongoDB untuk Kalibrr : 
 ```mongodb
 {
 "_id":{"$oid":"665984ccc50e47cfec03aec1"},
@@ -96,7 +96,7 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Kalibrr :
 Berikut merupakan link data visualisasi dari hasil scraping : https://rpubs.com/rahmianadra/visualisasi-hasilscrapping
 
 ## :computer: PPT
-Berikut adalah link powerpoint berkaitan dengan projek yang telah dibuat :
+Berikut adalah link powerpoint berkaitan dengan projek yang telah dibuat : https://bit.ly/Project-ScrappingMDS
 
 ## :woman_technologist: Pengembang
 [Rahmi Anadra](https://github.com/rahmiandr) (G1501231051)
