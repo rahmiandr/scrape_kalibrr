@@ -60,7 +60,7 @@ Kalibrr merupakan sumber informasi yang dapat diandalkan untuk mencari dan menil
 </p>
 
 <p align="justify">
-Pada project kali ini dilakukan scraping pada website https://www.kalibrr.id/. Kalibrr adalah platform yang menyediakan informasi tentang lowongan kerja, perusahaan, dan kesempatan karier lainnya. Doyek ini bertujuan untuk mengumpulkan data dari Kalibrr menggunakan teknik web scraping, yang nantinya akan digunakan untuk analisis dan visualisasi data terkait informasi lowongan kerja dan perusahaan yang tersedia. Proyek ini akan menggunakan teknik web scraping untuk mengumpulkan beberapa informasi yang relevan dari website Kalibrr. Setelah data berhasil dikumpulkan, langkah selanjutnya adalah melakukan analisis data dan membuat visualisasi yang informatif, seperti grafik untuk menggambarkan tren lowongan kerja berdasarkan sektor industri, tingkat pendidikan yang dibutuhkan, atau lokasi pekerjaan yang paling banyak dicari. Visualisasi ini akan membantu dalam memahami dinamika pasar kerja dan memberikan wawasan berharga bagi para pencari kerja dan perusahaan.
+Pada project kali ini dilakukan scraping pada website https://www.kalibrr.id/. Kalibrr adalah platform yang menyediakan informasi tentang lowongan kerja, perusahaan, dan kesempatan karier lainnya. Project ini bertujuan untuk mengumpulkan data dari Kalibrr menggunakan teknik web scraping, yang nantinya akan digunakan untuk analisis dan visualisasi data terkait informasi lowongan kerja dan perusahaan yang tersedia. Proyek ini akan menggunakan teknik web scraping untuk mengumpulkan beberapa informasi yang relevan dari website Kalibrr. Setelah data berhasil dikumpulkan, langkah selanjutnya adalah melakukan analisis data dan membuat visualisasi yang informatif, seperti grafik untuk menggambarkan tren lowongan kerja berdasarkan sektor industri, tingkat pendidikan yang dibutuhkan, atau lokasi pekerjaan yang paling banyak dicari. Visualisasi ini akan membantu dalam memahami dinamika pasar kerja dan memberikan wawasan berharga bagi para pencari kerja dan perusahaan.
 </p>
 
 </div>
@@ -68,7 +68,7 @@ Pada project kali ini dilakukan scraping pada website https://www.kalibrr.id/. K
 <p>
 Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
 
-- **Posis**: Posisi atau jabatan pekerjaan yang ditawarkan.
+- **Posisi**: Posisi atau jabatan pekerjaan yang ditawarkan.
 - **Perusahaan**: meliputi kenyamanan lounge, kebersihan, katering makanan, toilet, layanan staf, dll.
 - **Lokasi**: Lokasi tempat kerja.
 - **Gaji**: Informasi tentang gaji yang ditawarkan untuk posisi tersebut.
